@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-dark.png#gh-dark-mode-only" width="900" alt="SolidWeb: студия разработки полного цикла">
-<img src="assets/hero-light.png#gh-light-mode-only" width="900" alt="SolidWeb: студия разработки полного цикла">
+<img src="assets/mascot-hello.png" width="176" alt="Персонаж-талисман студии приветствует">
 
 # SolidWeb
 
@@ -43,7 +42,12 @@
 | 🎨 **Дизайн и оформление** | UI/UX-макеты в Figma, точная вёрстка, логотипы и фирменный стиль, баннеры и аватары для Discord, форумная графика, превью и обложки, полиграфия, лёгкий видеомонтаж |
 | 🗄 **Данные и инфраструктура** | схемы и оптимизация баз, индексы и миграции, кэши и очереди, объектные хранилища, Docker и CI/CD, масштабирование под нагрузку, права, секреты, логи и метрики |
 
-Нет пункта под вашу задачу? Если она решается кодом, значит она наша. Сложность влияет на объём ТЗ и число этапов, а не на решение работать с вами.
+<table>
+  <tr>
+    <td width="112" align="center"><img src="assets/mascot-shrug.png" width="92" alt="Спокойное «не знаю такой задачи, которой нет»"></td>
+    <td><b>Нет пункта под вашу задачу?</b> Если она решается кодом, значит она наша. Сложность влияет на объём ТЗ и число этапов, а не на решение работать с вами.</td>
+  </tr>
+</table>
 
 ### Кому подходит
 
@@ -51,6 +55,8 @@
 
 
 ## Как устроен контракт
+
+<img src="assets/mascot-eating.png" width="96" align="right" alt="Спокойное ожидание, пока пишется ТЗ">
 
 ```text
 заявка словами → уточняющие вопросы → ТЗ и смета под бюджет
@@ -66,6 +72,8 @@
 
 ## Красные линии
 
+<img src="assets/mascot-angry.png" width="96" align="right" alt="Серьёзное лицо про запреты">
+
 Всё, что явно нарушает закон или правила площадок, мы не делаем и не перефразируем в «легальный» вариант задним числом:
 
 > чужие аккаунты и подбор паролей · обход чужих защит · фишинг и клоны сайтов · взлом и DDoS · спам по чужим базам · накрутки и ботофермы · фейковые отзывы · продажа и слив персональных данных · софт, цель которого скрыть себя от анализа
@@ -75,6 +83,8 @@
 Ещё две вещи, которые мы не обещаем: «самые низкие цены» и «работаем 24/7». Вместо них внятная смета по этапам и связь, которая не исчезает после сдачи.
 
 ## Проекты
+
+<img src="assets/mascot-love.png" width="92" align="right" alt="Любим сложные задачи">
 
 <p align="center">
   <a href="https://github.com/{{login}}?tab=repositories"><b>Все репозитории →</b></a>
@@ -88,21 +98,39 @@
 
 В каждом проекте есть файл с замерами (`bench/*.json`), тесты, которые можно сломать, и раздел «известные ограничения». Цифры в README подтверждаются артефактами в репозитории, а не памятью автора.
 
+
 ## Контакты
 
-<p align="center">
+<div align="center">
+  <img src="assets/mascot-wink.png" width="128" alt="Талисман подмигивает: напишите нам">
+
   <a href="https://t.me/solidweb_tech"><img src="https://img.shields.io/badge/Telegram-solidweb__tech-2ca6e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: solidweb_tech"></a>
   <a href="https://solidweb.tech"><img src="https://img.shields.io/badge/Website-solidweb.tech-1f9d7a?style=for-the-badge" alt="Сайт студии"></a>
   <img src="https://img.shields.io/badge/Discord-provisr-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: provisr">
-</p>
+
+</div>
+
+---
 
 <div align="center">
 
----
+<img src="assets/mascot-thanks.png" width="112" alt="Талисман благодарит за внимание">
 
 > «Код не обязан быть красивым, чтобы работать. Но когда он красивый, его приятнее читать, чинить и оставлять себе.»
 
 **Пришли ради одного проекта? Возьмитесь за второй: обычно именно после него становится понятно, стоит ли работать со студией дальше.**
 
+<table>
+  <tr>
+    <td align="center"><img src="assets/mascot-cheer.png" width="72" alt="Радость"><br><sub>приняли ТЗ</sub></td>
+    <td align="center"><img src="assets/mascot-blush.png" width="72" alt="Смущение"><br><sub>вопрос про годы опыта</sub></td>
+    <td align="center"><img src="assets/mascot-laugh.png" width="72" alt="Смех"><br><sub>обещание «самые низкие цены»</sub></td>
+    <td align="center"><img src="assets/mascot-cry.png" width="72" alt="Слёзы"><br><sub>чужой код без комментариев</sub></td>
+  </tr>
+</table>
+
+<i>Вся графика в этом профиле авторская.</i>
+
 </div>
+
 
