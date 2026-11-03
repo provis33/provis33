@@ -104,7 +104,7 @@
 <div align="center">
   <img src="assets/mascot-wink.png" width="128" alt="Талисман подмигивает: напишите нам">
 
-  <a href="https://t.me/solidweb_tech"><img src="https://img.shields.io/badge/Telegram-solidweb__tech-2ca6e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: solidweb_tech"></a>
+  <a href="https://t.me/netwatch_ops"><img src="https://img.shields.io/badge/Telegram-solidweb__tech-2ca6e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: netwatch_ops"></a>
   <a href="https://solidweb.tech"><img src="https://img.shields.io/badge/Website-solidweb.tech-1f9d7a?style=for-the-badge" alt="Сайт студии"></a>
   <img src="https://img.shields.io/badge/Discord-provisr-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: provisr">
 
