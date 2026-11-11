@@ -87,14 +87,14 @@
 <img src="assets/mascot-love.png" width="92" align="right" alt="Любим сложные задачи">
 
 <p align="center">
-  <a href="https://github.com/{{login}}?tab=repositories"><b>Все репозитории →</b></a>
+  <a href="https://github.com/provis33?tab=repositories"><b>Все репозитории →</b></a>
 </p>
 
 | Проект | Что демонстрирует | Демо |
 |---|---|---|
-| [**market-terminal**](https://github.com/{{login}}/market-terminal) | High-load интерфейс на Svelte 5: своя виртуализация 50 000 записей, фильтрация по 12 параметрам, поток цен через WebSocket с батчем раз в кадр, потоковый экспорт. Данные синтетические | [открыть ↗](https://{{login}}.github.io/market-terminal/) |
-| [**forum-editor**](https://github.com/{{login}}/forum-editor) | WYSIWYG-редактор на TipTap как Svelte 5-библиотека: кастомные узлы (спойлер, код-блок с ленивой подсветкой, `@mention` с асинхронным поиском), загрузка с прогрессом, черновики в IndexedDB, набор XSS-тестов | [демо ↗](https://{{login}}.github.io/forum-editor/) |
-| [**legacy-forge**](https://github.com/{{login}}/legacy-forge) | Chrome MV3-инструмент для легаси-интерфейсов: идемпотентный перехват `fetch`/`XHR` в MAIN мире, грязная вёрстка через jQuery 3.x (в одном boundary-модуле), UI на Svelte 5 внутри Shadow DOM. Работает только против локальной учебной фикстуры | [видео в README репо ↗](https://github.com/{{login}}/legacy-forge) |
+| [**market-terminal**](https://github.com/provis33/market-terminal) | High-load интерфейс на Svelte 5: своя виртуализация 50 000 записей, фильтрация по 12 параметрам, поток цен через WebSocket с батчем раз в кадр, потоковый экспорт. Данные синтетические | [открыть ↗](https://provis33.github.io/market-terminal/) |
+| [**forum-editor**](https://github.com/provis33/forum-editor) | WYSIWYG-редактор на TipTap как Svelte 5-библиотека: кастомные узлы (спойлер, код-блок с ленивой подсветкой, `@mention` с асинхронным поиском), загрузка с прогрессом, черновики в IndexedDB, набор XSS-тестов | [демо ↗](https://provis33.github.io/forum-editor/) |
+| [**legacy-forge**](https://github.com/provis33/legacy-forge) | Chrome MV3-инструмент для легаси-интерфейсов: идемпотентный перехват `fetch`/`XHR` в MAIN мире, грязная вёрстка через jQuery 3.x (в одном boundary-модуле), UI на Svelte 5 внутри Shadow DOM. Работает только против локальной учебной фикстуры | [видео в README репо ↗](https://github.com/provis33/legacy-forge) |
 
 В каждом проекте есть файл с замерами (`bench/*.json`), тесты, которые можно сломать, и раздел «известные ограничения». Цифры в README подтверждаются артефактами в репозитории, а не памятью автора.
 
